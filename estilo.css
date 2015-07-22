@@ -1,0 +1,30 @@
+h1{
+	font-family: "Verdana", Sans-Serif;
+	color: red;
+}
+a{
+	text-decoration: none;
+	color: #ac850b;
+	padding "7px 10 px 3px 10px";
+	}
+nav{
+		padding: 20px 0 20px 10px
+		margin-top: -20px;
+		}
+		
+table{
+	border: 2px solid #CB970F;
+	border-radius: 5px;
+	box-shadow: 5px 7px 10px #aaa;
+	-webkit-box: -5px 7px set-box: shadow: 5px 7px 10px #aaa;
+	
+}
+posicao{
+    position: relative;
+    width: 0px;    
+    height: 20px;
+	}	
+desloca{
+padding: 20px 0 20px 10px;
+width: 20px;
+}
