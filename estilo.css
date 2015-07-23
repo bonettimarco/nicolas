@@ -1,6 +1,6 @@
 h1{
 	font-family: "Verdana", Sans-Serif;
-	color: red;
+	color: black;
 }
 a{
 	text-decoration: none;
@@ -24,7 +24,28 @@ posicao{
     width: 0px;    
     height: 20px;
 	}	
+	
 desloca{
 position: relative;
-width: 20px;
+width: -50px;
+}
+
+ima{
+	float: left-side;
+}
+
+strong{
+	position: relative;
+	left: 120px;
+	top: -110px;
+}
+
+b{
+	position: relative;
+	left: 320px;
+	top: -170px;
+}
+c{
+	position: relative;
+	botton: 50px;
 }
