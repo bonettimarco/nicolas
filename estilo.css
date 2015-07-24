@@ -1,5 +1,6 @@
 h1{
 	font-family: "Verdana", Sans-Serif;
+
 	color: black;
 }
 a{
@@ -49,3 +50,16 @@ c{
 	position: relative;
 	botton: 50px;
 }
+  	
+	
+relativo {
+    position: relative;
+    top: 30px;
+   
+}
+
+cores{
+	position: asbsolute;
+	top: -40px;
+	right: 80px;
+	}
