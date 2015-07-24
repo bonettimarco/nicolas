@@ -1,9 +1,5 @@
 h1{
 	font-family: "Verdana", Sans-Serif;
-<<<<<<< HEAD
-
-=======
->>>>>>> c9cee4698e5bc82b1c374aacc8e1e6a1010bd6aa
 	color: black;
 }
 a{
@@ -51,7 +47,8 @@ b{
 }
 c{
 	position: relative;
-	botton: 50px;
+	top: -50px;
+	text-align: center;
 }
   	
 	
@@ -92,4 +89,3 @@ dia{
 	right: -500px;
 }
 
->>>>>>> c9cee4698e5bc82b1c374aacc8e1e6a1010bd6aa
