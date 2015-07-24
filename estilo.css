@@ -1,11 +1,14 @@
 h1{
 	font-family: "Verdana", Sans-Serif;
+<<<<<<< HEAD
 
+=======
+>>>>>>> c9cee4698e5bc82b1c374aacc8e1e6a1010bd6aa
 	color: black;
 }
 a{
 	text-decoration: none;
-	color: #ac850b;
+	color: #000000;
 	padding "7px 10 px 3px 10px";
 	}
 nav{
@@ -59,7 +62,34 @@ relativo {
 }
 
 cores{
+<<<<<<< HEAD
 	position: asbsolute;
 	top: -40px;
 	right: 80px;
 	}
+=======
+	position: relative;
+	top: 0px;
+	right: 0px;
+	
+}
+
+b{
+	position: relative;
+	top: -35px;
+	right: -300px;
+}
+
+cia{
+	position: relative;
+	top: -30px;
+	right: -400px;
+}
+
+dia{
+	position: relative;
+	top: -30px;
+	right: -500px;
+}
+
+>>>>>>> c9cee4698e5bc82b1c374aacc8e1e6a1010bd6aa
